@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.infernal_coding.weak_hardcore.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "BaseFireBlockMixin",
+    "ServerPlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
