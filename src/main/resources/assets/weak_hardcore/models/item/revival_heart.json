@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "weak_hardcore:item/revival_heart"
-  }
-}
